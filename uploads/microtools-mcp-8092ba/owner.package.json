@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "uid": "tester123.microtools-mcp",
+  "owner": "tester123",
+  "name": "microtools-mcp",
+  "kind": "local",
+  "title": "microtools-mcp",
+  "description": "The stdio MCP server has eight tools for JSON, URLs, Base64, text hashes, and timestamps. It doesn’t access files or call external services. It uses the official server package’s stdio setup",
+  "version": "1.0.0",
+  "categories": [
+    "dev",
+    "base64"
+  ],
+  "source": {
+    "type": "github",
+    "ref": "Ai-finder-for-api/mcp-microtools"
+  },
+  "verification": {
+    "method": null
+  },
+  "security": {
+    "scan": "pending"
+  },
+  "published_at": "2026-11-28T10:52:32.131Z",
+  "last_verified_at": "2026-11-28T10:52:34.312Z",
+  "status": "listed"
+}
